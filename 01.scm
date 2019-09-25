@@ -8,3 +8,4 @@
 ; (c) (car ’(elmer fudd daffy duck))
 ; (d) (cdr ’(elmer fudd daffy duck))
 ; (e) (and (= 1 2) (= 10 (/ 1 0)))
+ group QA
