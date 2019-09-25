@@ -8,3 +8,12 @@
       (+ (car lst) (list-sum (cdr lst))))))
 
 (list-sum '(1 2 3 4 5 6 7 8 9 10))
+(list-sum '(98, 49, 75))
+
+;Mathew Davidov
+;Brian Cheung
+;Vivian Tom
+;Shradha Luintel
+;Amara Auguste
+;Youstina Samuel
+;Stanislav Kam
