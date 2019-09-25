@@ -1,4 +1,5 @@
 07.scm
+;QA TEAM
 
 (define (sum s) ; defined the function sum that takes variable s
 	(sum-helper s 0)) ; pass the list s and 0 to sum-helper
